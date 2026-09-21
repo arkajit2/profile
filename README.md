@@ -7,7 +7,7 @@
 
 [![Wikipedia Profile](https://img.shields.io/badge/Executive_Biography-Verified_Record-3366cc?style=for-the-badge&logo=wikipedia&logoColor=white)](https://fraoula.co/arkajit)
 [![Fraoula CPO](https://img.shields.io/badge/Fraoula-Chief_Product_Officer-341539?style=for-the-badge&logo=buffer&logoColor=FFFFC5)](https://fraoula.co/leadership)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arkajit_Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajit-das)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arkajit1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajit1)
 [![Email Contact](https://img.shields.io/badge/Email-arkajit33@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkajit33@gmail.com)
 
 </div>
@@ -44,7 +44,7 @@ He currently serves as **Chief Product Officer (CPO) &amp; Co-Founder** at [**Fr
 <table>
 <tr><th colspan="2" style="text-align:center; background:#eaecf0; color:#000;"><b>Arkajit Das</b></th></tr>
 <tr><td colspan="2" align="center">
-  <div style="width:90px; height:90px; border-radius:50%; background:#341539; color:#FFFFC5; display:flex; align-items:center; justify-content:center; font-size:32px; font-weight:bold; margin:10px auto;">AD</div>
+  <img src="arkajit.jpg" alt="Arkajit Das" width="100" height="100" style="border-radius:50%; object-fit:cover; margin:8px auto; display:block;" />
   <sub>Arkajit Das (2024)</sub>
 </td></tr>
 <tr><th colspan="2" style="background:#eaecf0; text-align:center; font-size:11px; text-transform:uppercase;">Personal Details</th></tr>
@@ -126,7 +126,7 @@ He currently serves as **Chief Product Officer (CPO) &amp; Co-Founder** at [**Fr
 
 1. **Official Wikipedia-Style Biography**: [https://www.fraoula.co/arkajit](https://www.fraoula.co/arkajit)
 2. **Fraoula Corporate Leadership Registry**: [https://www.fraoula.co/leadership](https://www.fraoula.co/leadership)
-3. **LinkedIn Executive Profile**: [https://www.linkedin.com/in/arkajit-das](https://www.linkedin.com/in/arkajit-das)
+3. **LinkedIn Executive Profile**: [https://www.linkedin.com/in/arkajit1](https://www.linkedin.com/in/arkajit1)
 4. **Fraoula Data Auditor (Live Engine)**: [https://data-audit.fraoula.co](https://data-audit.fraoula.co)
 5. **Marketing Intelligence Platform**: [https://marketing.fraoula.co](https://marketing.fraoula.co)
 6. **Academic Alumni Archives**: West Bengal University of Technology (2016) &bull; Liverpool Business School (2022)
