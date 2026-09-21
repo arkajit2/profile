@@ -5,7 +5,7 @@
 # 🌐 Arkajit Das (Arkajit)
 ### *Enterprise AI Product Leader &bull; Cloud Solution Architect &bull; Technology Executive*
 
-[![Wikipedia Profile](https://img.shields.io/badge/Wikipedia_Biography-Live_Article-3366cc?style=for-the-badge&logo=wikipedia&logoColor=white)](https://fraoula.co/arkajit)
+[![Wikipedia Profile](https://img.shields.io/badge/Executive_Biography-Verified_Record-3366cc?style=for-the-badge&logo=wikipedia&logoColor=white)](https://fraoula.co/arkajit)
 [![Fraoula CPO](https://img.shields.io/badge/Fraoula-Chief_Product_Officer-341539?style=for-the-badge&logo=buffer&logoColor=FFFFC5)](https://fraoula.co/leadership)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arkajit_Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajit-das)
 [![Email Contact](https://img.shields.io/badge/Email-arkajit33@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkajit33@gmail.com)
@@ -14,8 +14,8 @@
 
 ---
 
-> *From Wikipedia, the free encyclopedia*  
-> *This biographical entry documents the enterprise artificial intelligence product leader and architect. For other uses, see [Arkajit (disambiguation)](https://fraoula.co/arkajit).*
+> *Executive Biographical Dossier • Public Knowledge Record*  
+> *This verified biographical record documents the enterprise artificial intelligence product leader and solution architect Arkajit Das.*
 
 ---
 
@@ -135,4 +135,11 @@ He currently serves as **Chief Product Officer (CPO) &amp; Co-Founder** at [**Fr
 
 <div align="center">
   <sub>This profile is continuously synced with Cloudflare Pages at <code>fraoula.co/arkajit</code> and the Google Search Knowledge Graph.</sub>
+</div>
+
+
+---
+
+<div align="center">
+  <sub><b>Legal &amp; Trademark Notice:</b> All corporate names and trade designations referenced herein (including Deloitte, Procentris, Clean Harbors, eClerx, PayPal, CAI, and Fraoula) are property of their respective owners and used solely for factual career identification (nominative fair use).</sub>
 </div>
