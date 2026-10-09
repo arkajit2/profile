@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arkajit1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkajit1)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-zav3IiQAAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=zav3IiQAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-DOI_Publication-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Arkajit-Das-2)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--3449--6560-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-3449-6560)
 
 </div>
 
@@ -103,6 +104,8 @@ Empirical postgraduate dissertation from Liverpool Business School (Liverpool Jo
 - **LinkedIn:** [https://www.linkedin.com/in/arkajit1](https://www.linkedin.com/in/arkajit1)
 - **GitHub:** [https://github.com/arkajit2](https://github.com/arkajit2)
 - **ResearchGate:** [https://www.researchgate.net/profile/Arkajit-Das-2](https://www.researchgate.net/profile/Arkajit-Das-2)
+- **ORCID:** [https://orcid.org/0009-0006-3449-6560](https://orcid.org/0009-0006-3449-6560)
 - **Google Scholar:** [https://scholar.google.com/citations?user=zav3IiQAAAAJ&hl=en](https://scholar.google.com/citations?user=zav3IiQAAAAJ&hl=en)
 - **Direct Advisory:** [https://arkajit.com/advisory/](https://arkajit.com/advisory/) (Fee: INR 2,000 / $20 USD)
 - **Email:** [arkajit33@gmail.com](mailto:arkajit33@gmail.com)
+
