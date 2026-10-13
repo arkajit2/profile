@@ -31,28 +31,33 @@ CPO and Co-Founder at [Fraoula](https://fraoula.co). I build enterprise AI syste
 
 | | |
 | :--- | :--- |
-| [Essays](https://arkajit.com/essays/) | 200 published essays on AI, cloud infrastructure, and product |
+| [Canonical Profile](https://arkajit.com/about/arkajit-das/) | Verified ProfilePage entity record |
+| [Essays](https://arkajit.com/essays/) | Published essays on AI systems, cloud infrastructure, and product strategy |
 | [Advisory](https://arkajit.com/advisory/) | 1:1 sessions, INR 2,000 / $20 |
 | [Masterclass](https://arkajit.com/masterclass/) | AI product leadership curriculum |
+| [Proof & Case Studies](https://arkajit.com/proof/) | Verified architectural and operational claims |
 | [Smartphone Comparator](https://arkajit.com/compare/mobiles/) | GSMArena-style comparator with AI Auto-Fetch |
 | [Laptop Comparator](https://arkajit.com/compare/laptops/) | Spec matrix with AI Auto-Fetch |
 | [Camera Comparator](https://arkajit.com/compare/cameras/) | Sensor, IBIS, video pipeline comparator |
 | [Cloud Calculator](https://arkajit.com/tools/cloud-calculator/) | AWS vs Azure vs GCP cost comparison |
 | [Latency Simulator](https://arkajit.com/tools/latency-calculator/) | Network protocol latency calculator |
 | [Open Numbers](https://arkajit.com/open-numbers/) | Public business metrics |
-| [About](https://arkajit.com/about/) | Full biographical record |
 
 ---
 
-### Background
+### Career & Claims Registry
 
-- **$12M in audited annual cloud cost savings** - Azure infrastructure rightsizing at CAI
-- **10TB+ daily pipeline** - maintained at 99.5% SLA availability
-- **10,000 manual hours saved** - AI analytics automation at eClerx/PayPal
-- PSPO-II (Scrum.org) &bull; Power BI DA-300 (Microsoft) &bull; MBA (Liverpool Business School) &bull; BCA Rank 1 (WBUT)
+- **Fraoula (2024–Present):** Co-Founder & Chief Product Officer
+- **Computer Associates / CAI (2023–2024):** Solution Architect - $12M audited cloud cost optimization
+- **eClerx / PayPal (2022–2023):** Product Manager / FinTech Pipeline Lead - 10,000 manual hours automated
+- **Clean Harbors (2020–2022):** Data Product Owner - 10TB+ daily telemetry at 99.5% uptime
+- **Procentris (2018–2020):** Technical Lead
+- **Deloitte (2016–2018):** Business Technology Analyst
+- **WBUT (2013–2016):** BCA Valedictorian, Rank 1 Batch
+- **Liverpool Business School:** MBA
 
 ---
 
 ### Reach me
 
-[arkajit.com](https://arkajit.com) &bull; [arkajit33@gmail.com](mailto:arkajit33@gmail.com) &bull; [linkedin.com/in/arkajit1](https://www.linkedin.com/in/arkajit1)
+[arkajit.com](https://arkajit.com) &bull; [Profile](https://arkajit.com/about/arkajit-das/) &bull; [arkajit33@gmail.com](mailto:arkajit33@gmail.com) &bull; [linkedin.com/in/arkajit1](https://www.linkedin.com/in/arkajit1)
