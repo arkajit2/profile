@@ -2,8 +2,8 @@
 
 # Arkajit Das
 
-**Co-Founder & Chief Product Officer at [Fraoula](https://fraoula.co)**  
-*Building sub-350ms in-memory systems, deterministic consensus gates, and cloud cost telemetry.*
+**Technology Product Executive | AI & Data Products | Co-Founder & CPO, Fraoula**  
+*Co-Founder & Chief Product Officer at Fraoula - building AI, data and privacy-first enterprise products.*
 
 [![Canonical Website](https://img.shields.io/badge/arkajit.com-Official_Platform-000000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://arkajit.com)
 [![ProfilePage](https://img.shields.io/badge/ProfilePage-Verified_Record-000000?style=for-the-badge&logo=google&logoColor=white)](https://arkajit.com/about/arkajit-das/)
@@ -19,9 +19,11 @@
 
 ## Biography & Executive Focus
 
-Arkajit Das is a technology executive, systems builder, and author based in Bangalore, India, working with engineering teams worldwide. He serves as Co-Founder and Chief Product Officer at Fraoula, directing high-speed data verification platforms and privacy-preserving marketing attribution engines.
+Arkajit Das is a Technology Product Executive, AI & Data Product Leader, and Co-Founder & Chief Product Officer at Fraoula based in Bangalore, India, working with engineering teams worldwide.
 
-Over a decade of systems architecture, he has led enterprise software initiatives across Computer Associates (CAI), PayPal (via eClerx), Clean Harbors, and Deloitte. His engineering work eliminated $12 million in annual recurring cloud server waste, automated over 10,000 hours of banking settlement labor, and maintained 99.5% continuous uptime across industrial networks.
+As Co-Founder & CPO, Arkajit leads product strategy, technical architecture and enterprise AI/data platform development for Fraoula's sub-350ms RAM-only data validation and privacy attribution platform.
+
+Over a decade of systems architecture and product delivery, he has led enterprise software initiatives across Computer Associates (CAI), PayPal (via eClerx), Clean Harbors, and Deloitte. His engineering work eliminated $12 million in annual recurring cloud server waste, automated over 10,000 hours of banking settlement labor, and maintained 99.5% continuous uptime across industrial networks.
 
 He graduated as University Batch Valedictorian (Rank 1) in Computer Applications from West Bengal University of Technology (WBUT / MAKAUT) and holds a Master of Business Administration (MBA) in executive strategy from Liverpool Business School at Liverpool John Moores University (UK).
 
